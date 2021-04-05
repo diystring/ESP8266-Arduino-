@@ -13,10 +13,10 @@ Arduino 开发环境编译烧录
 //开发样片
 ![Image text](https://github.com/diystring/ESP8266ArduinoNetworkTime/blob/main/ESP8266-Arduino/img/A1.jpg)
 
-![Image text](https://github.com/diystring/ESP8266ArduinoNetworkTime/blob/main/ESP8266-Arduino/img/A1.jpg)
+![Image text](https://github.com/diystring/ESP8266ArduinoNetworkTime/blob/main/ESP8266-Arduino/img/A2.jpg)
 
-![Image text](https://github.com/diystring/ESP8266ArduinoNetworkTime/blob/main/ESP8266-Arduino/img/A1.jpg)
+![Image text](https://github.com/diystring/ESP8266ArduinoNetworkTime/blob/main/ESP8266-Arduino/img/A3.jpg)
 
-![Image text](https://github.com/diystring/ESP8266ArduinoNetworkTime/blob/main/ESP8266-Arduino/img/A1.jpg)
+![Image text](https://github.com/diystring/ESP8266ArduinoNetworkTime/blob/main/ESP8266-Arduino/img/A4.jpg)
 
 //后续成品会使用3D打印机打印外壳，或全透树脂直接灌封，期待，，，
