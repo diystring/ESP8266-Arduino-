@@ -17,6 +17,7 @@ Arduino 开发环境编译烧录
 
 ![Image text](https://github.com/diystring/ESP8266ArduinoNetworkTime/blob/main/ESP8266-Arduino/img/A3.jpg)
 
+【由于刷新率的问题 拍照或录像会有闪屏，实际肉眼看是正常的】
 ![Image text](https://github.com/diystring/ESP8266ArduinoNetworkTime/blob/main/ESP8266-Arduino/img/A4.jpg)
 
 //后续成品会使用3D打印机打印外壳，或全透树脂直接灌封，期待，，，
